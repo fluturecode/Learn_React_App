@@ -27,24 +27,6 @@
 [![Code of Conduct][coc-badge]][coc]
 <!-- prettier-ignore-end -->
 
-## Prerequisites
-
-- Read through
-  ["JavaScript to Know for React"](https://kentcdodds.com/blog/javascript-to-know-for-react)
-- Install the React DevTools
-  ([Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
-  (recommended),
-  [Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/))
-
-## System Requirements
-
-- [git][git] v2.13 or greater
-- [NodeJS][node] `^10.13 || 12 || 14`
-- [npm][npm] v6 or greater
-
-All of these must be available in your `PATH`. To verify things are set up
-properly, you can run this:
-
 ## Setup
 
 > If you want to commit and push your work as you go, you'll want to
