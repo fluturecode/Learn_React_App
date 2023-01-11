@@ -45,16 +45,6 @@
 All of these must be available in your `PATH`. To verify things are set up
 properly, you can run this:
 
-```shell
-git --version
-node --version
-npm --version
-```
-
-If you have trouble with any of these, learn more about the PATH environment
-variable and how to fix it here for [windows][win-path] or
-[mac/linux][mac-path].
-
 ## Setup
 
 > If you want to commit and push your work as you go, you'll want to
